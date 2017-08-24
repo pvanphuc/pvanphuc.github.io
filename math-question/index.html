@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+<meta name="robots" content="noindex">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel = "stylesheet" type = "text/css" href = "app.css" />
+  
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+<script src="data/data1.js"></script>
+<script src="app.js"></script>
+
+</head>
+<body onload="onloadD()">
+  <div id="loader">
+    <div id="shadow"></div>
+    <div id="box"></div>
+    <h4>Happy...</h4>
+  </div>
+
+
+  <div id="container">
+    <h1>Mathematical logic</h1>
+    <div id="form" >
+      Code: <input type="text" name="Code" value=""><br>
+      <button onclick="myFunction()">Click me</button>
+    </div>
+    <div id = 'number'>1</div>
+    <div id="mySlides">
+  
+         <fieldset  class='text questions'>
+          <legend align="left" ><b>Question</b> </legend>
+          <p id='question'>
+          </p>
+
+        </fieldset>
+    
+        <fieldset class='text solutions'>
+          <legend align="left" ><b>Solution</b> </legend>
+          <p id='solution'>
+          </p>
+        </fieldset>
+      
+      <fieldset  class='text tips'>
+          <legend align="left" ><b>Tip</b> </legend>
+           <p id = 'tip'>
+          </p>
+        </fieldset>
+
+    </div>
+
+  </div>
+  <br>
+  <div>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+
+
+</body>
+</html> 

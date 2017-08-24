@@ -1,0 +1,176 @@
+/*  Loader  */
+#loader {
+  display:none;
+  /* Uncomment this to make it run! */
+  /*
+     animation: loader 5s linear infinite; 
+     */
+     position: fixed;
+     z-index: 100;
+     top: calc(50% - 20px);
+     left: calc(50% - 20px);
+   }
+   @keyframes loader {
+    0% { left: -100px }
+    100% { left: 110%; }
+  }
+  #box {
+    width: 50px;
+    height: 50px;
+    background: red;
+    animation: animate .5s linear infinite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 3px;
+  }
+  @keyframes animate {
+    17% { border-bottom-right-radius: 3px; }
+    25% { transform: translateY(9px) rotate(22.5deg); }
+    50% {
+      transform: translateY(18px) scale(1,.9) rotate(45deg) ;
+      border-bottom-right-radius: 40px;
+    }
+    75% { transform: translateY(9px) rotate(67.5deg); }
+    100% { transform: translateY(0) rotate(90deg); }
+  } 
+  #shadow { 
+    width: 50px;
+    height: 5px;
+    background: green;
+    opacity: 0.1;
+    position: absolute;
+    top: 59px;
+    left: 0;
+    border-radius: 50%;
+    animation: shadow .5s linear infinite;
+  }
+  @keyframes shadow {
+    50% {
+      transform: scale(1.2,1);
+    }
+  }
+
+
+  body {
+    background: #FFFFFF; 
+  }
+  h4 {
+    position: absolute;
+    bottom: -100px;
+    left: -5px;
+    margin: 0;
+    font-weight: 200;
+    opacity: .5;
+    font-family: sans-serif;
+    color: green;
+  }
+  h1{
+    color:green;
+    text-align: center;
+
+  }
+  #form { 
+    text-align: center;
+    margin: 0 auto; 
+    padding: 20px;
+  }
+
+
+
+
+
+  /*container*/
+
+  * {box-sizing:border-box}
+  body {
+    font-family: Verdana,sans-serif;margin:0;
+
+
+  }
+
+  #mySlides {display:block
+  }
+
+  /* Slideshow container */
+  #container {
+    padding:10px;
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: fixed;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: green;
+    font-size: 18px;
+    transition: 0.6s ease;
+    der-radius: 0 3px 3px 0;
+  }
+
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  /* Caption text */
+  .text {
+    min-height: 100px;
+    border: 1px solid;
+    border-radius:1px;
+    color: #000;
+    font-size: 15px;
+    padding: 8px 12px;
+    margin-top: 10px;
+    width: 100%;
+    text-align: left;
+  }
+
+
+
+
+
+
+  
+  fieldset legend {
+    color: #fff;
+    padding: 2px 5px ;
+    font-size: 20px;
+    border-radius: 3px;
+    
+  }
+  .questions legend{
+    background: green;
+
+  }
+  .solutions legend{
+    background: blue;
+
+  }
+  .tips legend{
+    background: red;
+
+  }
+
+  #number{
+    margin: auto;
+
+  
+    background: green;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+  }

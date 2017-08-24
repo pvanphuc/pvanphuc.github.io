@@ -15,7 +15,7 @@ var Data = [
 	$$ y=kx+a=\\frac{x+2}{x-1} $$
 	T&#7841;i ti&#7871;p &#273;i&#7875;m \\( k \\) ch&iacute;nh l&agrave; &#273;&#7897; d&#7889;c c&#7911;a ti&#7871;p tuy&#7871;n n&oacute; s&#7869; b&#7857;ng &#273;&#7841;o h&agrave;m \\( y' \\) c&#7911;a &#273;&#7891; th&#7883; \\( (C) \\). Ta c&oacute;:<br />
 	X&eacute;t \\( k=0 \\) kh&ocirc;ng th&#7887;a m&atilde;n v&igrave; \\( y' \\neq 0 \\).<br />
-	V&#7871; ph&#7843;i tr&#7915; \\( 2 \\) r&#7891;i chia cho \\( x \\) ta &#273;&#432;&#7907;c \\( k \\) l&agrave;:
+	V&#7871; ph&#7843;i tr&#7915; \\( a \\) r&#7891;i chia cho \\( x \\) ta &#273;&#432;&#7907;c \\( k \\) l&agrave;:
 	$$ k=\\frac{x(1-a)+(2+a)}{x(x-1)} $$.
 	V&#7899;i \\( k = y' \\)::
 	$$  y'= k =\\frac{x(1-a)+(2+a)}{x(x-1)} =\\frac{-3}{(x-1)^{2}} $$ 

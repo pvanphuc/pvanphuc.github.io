@@ -27,13 +27,13 @@ var Data = [
 	Thay \\( x=0 \\) ta c&oacute; \\( a = -2 \\). Thay \\( x=1 \\) ta c&oacute; \\( 3=0 \\) v&ocirc; l&yacute;. V&igrave; \\( x \\neq 0 \\) n&ecirc;n:<br />
 	\\( a \\neq -2  \\). &#272;&#7863;t l&agrave; \\( (1) \\). <br/>
 	\\( \\Delta \\) c&#7911;a ph&#432;&#417;ng tr&igrave;nh tr&ecirc;n l&agrave;:<br />
-	$$  4(a+2)^2-4(a+2)(1-a) $$
+	$$  4(a+2)^2+4(a+2)(1-a) $$
 	Hai nghi&#7879;m th&igrave; \\( \\Delta > 0 \\) t&#432;&#417;ng &#273;&#432;&#417;ng:
-	$$ (a+2)(2a+1)>0 $$
+	$$ (a+2)13>0 $$
 	Gi&#7843;i &#273;&#417;n gi&#7843;n &#273;&#432;&#7907;c n&oacute; n&#7857;m ngo&agrave;i kho&#7843;ng hai nghi&#7879;m.<br />
-	\\(a<-2 ||a>\\frac{-1}{2} \\). &#272;&#7863;t l&agrave; \\( (2) \\).<br/>
+	\\( a>-2 \\). &#272;&#7863;t l&agrave; \\( (2) \\).<br/>
 	T&#7915; \\( (1) \\) v&agrave; \\( (2) \\) ta c&oacute; k&#7871;t qu&#7843;:
-	$$ a<-2  ||  a>\\frac{-1}{2} $$
+	$$ a>-2 $$
 	D&#7845;u \\( || \\) l&agrave; ho&#7863;c &#273;&oacute;.
 	`
 },

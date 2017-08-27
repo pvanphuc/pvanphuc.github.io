@@ -43,8 +43,7 @@ var Data = [
 	B. 219<br />
 	C. 220<br />
 	D. 225<br />
-	E. 227
-	F. Ề ế ề ệ ị ẻ ẽ è <br>`
+	E. 227`
 	solution1: 'B. 219',
 	tip1: 'T&#7893;ng m&#432;&#7901;i s&#7889; th&igrave; ph&#7843;i chia h&#7871;t cho 5 (c&oacute; 5 c&#7863;p b&#7857;ng gi&aacute; tr&#7883; l&#7899;n nh&#7845;t c&#7897;ng b&eacute; nh&#7845;t). V&#7853;y ch&#7881; c&oacute; &#273;&aacute;p &aacute;n B. Ch&#432;a th&#7917; l&#7841;i n&ecirc;n th&#7917; l&#7841;i &#273;&#7875; xem m&#432;&#7901;i s&#7889; l&agrave; s&#7889; n&agrave;o &#273;&ocirc;i khi m&#7845;y th&#7857;ng ra &#273;&#7873; sai. C&ograve;n khi thi th&igrave; &#273;&#7915;ng th&#7917; l&#7841;i t&#7889;n th&#7901;i gian.'
 },

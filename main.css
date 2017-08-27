@@ -34,6 +34,7 @@ a:active {
     color: green;
 }
 a{
+	text-decoration: none;
 	font-size: 120%;
 
 }

@@ -54,7 +54,7 @@ var onloadD = function (){
 	App.setText(index);
 }
 
-/*
+
 var getJSON = function(url, callback) {
     var xhr = new XMLHttpRequest();
     xhr.open('GET', url, true);
@@ -78,4 +78,3 @@ function(err, data) {
     console.log('Your query count: ' + data);
   }
 });
-*/

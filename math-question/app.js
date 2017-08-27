@@ -75,6 +75,6 @@ function(err, data) {
   if (err != null) {
     alert('Something went wrong: ' + err);
   } else {
-    console.log('Your query count: ' + data);
+    console.log('Your query count: ' + data.jekyll);
   }
 });

@@ -1,4 +1,13 @@
-	h1 { color: green;
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
+body {
+font-family: 'Inconsolata', monospace;
+}	
+h1 { color: green;
 		font-size: 75px; 
 		font-weight: bold; 
 		letter-spacing: -1px;

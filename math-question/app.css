@@ -1,4 +1,13 @@
 /*  Loader  */
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_light.woff);
+}
+
+body {
+font-family: 'Inconsolata', monospace;
+}
 #loader {
   display:none;
   /* Uncomment this to make it run! */

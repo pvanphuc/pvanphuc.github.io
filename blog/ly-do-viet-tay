@@ -1,0 +1,25 @@
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+      <style>
+         body {
+         font-family: 'Inconsolata', monospace;
+         }
+      </style>
+      <title>Lý do tôi sử dụng chữ viết tay</title>
+      <style id="jsbin-css"></style>
+   </head>
+   <body>
+      <div id="content">
+         <h1>Lý do tôi sử dụng chữ viết tay</h1>
+         <p>
+            <b>Lý do 1:</b> Nghe một giáo sư Stanford bảo một nghiên cứu chỉ ra rằng ghi chú bằng laptop sẽ không hiệu quả bằng chép tay. Và trải nghiệm của bản thân cũng thấy đúng.  
+         </p>
+         <p>
+            <b>Lý do 2:</b> Mặc dù chữ xấu nhưng ghi chú bằng tay có thể truyền cảm hứng học tập cho đứa em của mình.
+         </p>
+      </div>
+   </body>
+</html>

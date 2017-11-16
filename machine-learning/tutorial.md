@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /neural-networks-3/
+permalink: mlearning/tutorial/
 ---
 
 Table of Contents:

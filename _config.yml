@@ -1,11 +1,10 @@
 # Site settings
 title: Van Phuc
 email: vphuc.p@gmail.com
-facebook: https://web.facebook.com/is011011010111100101101100011010010110011001100101
+facebook: is011011010111100101101100011010010110011001100101
 description: "My blog."
 baseurl: ""
 url: "pvanphuc.github.io"
-twitter_username: Pi
 github_username:  pvanphuc
 
 # Build settings

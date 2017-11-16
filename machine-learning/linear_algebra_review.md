@@ -34,21 +34,7 @@ $$
 **Examples**
 
 $$
-\begin{bmatrix}
-1 & 2 & 3\\ 
-4 & 5 & 6
-\end{bmatrix}
-\times 
-\begin{bmatrix}
-7 & 8\\ 
-9 & 10\\ 
-11 & 12 
-\end{bmatrix}
-= 
-\begin{bmatrix}
-58 & 64\\ 
-139 & 154
-\end{bmatrix}
+\begin{bmatrix} 1 & 2 & 3\\ 4 & 5 & 6 \end{bmatrix} \times \begin{bmatrix} 7 & 8\\ 9 & 10\\ 11 & 12 \end{bmatrix} = \begin{bmatrix} 58 & 64\\ 139 & 154 \end{bmatrix}
 $$
 
 ```python

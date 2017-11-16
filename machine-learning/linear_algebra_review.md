@@ -12,4 +12,7 @@ Table of Contents:
 
 <a name='matrixmultiplication'></a>
 ### Matrix Multiplication
+$$A \in R^{m\times n}$$
+$$B \in R^{n\times p}$$
+$$C=AB\in R^{m\times p}$$
 

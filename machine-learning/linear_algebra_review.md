@@ -1,6 +1,6 @@
 ---
-title: Linear Algebra Review
 layout: page
+title: Linear Algebra Review
 permalink: /linear_algebra_review/
 ---
 

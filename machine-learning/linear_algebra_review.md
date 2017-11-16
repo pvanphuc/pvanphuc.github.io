@@ -14,11 +14,11 @@ Table of Contents:
 ### Matrix Multiplication
 $$
 A \in R^{m\times n}
-$$
+$$  
 $$
 B \in R^{n\times p}
-$$
+$$  
 $$
 C=AB\in R^{m\times p}
-$$
+$$  
 

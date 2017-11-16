@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: machine-learning/linear_algebra_review/
+permalink: /linear_algebra_review/
 ---
 
 Table of Contents:

@@ -1,4 +1,3 @@
-
 ---
 layout: page
 permalink: linear_algebra_review

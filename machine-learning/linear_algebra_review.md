@@ -1,4 +1,5 @@
 ---
+title: Linear Algebra Review
 layout: page
 permalink: /linear_algebra_review/
 ---
